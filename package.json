@@ -19,7 +19,7 @@
     "popover"
   ],
   "dependencies" : {
-    "d3"   :  "2.x.x"
+    "d3"   :  "3.5.4"
   },
   "noAnalyze": true,
   "devDependencies": {
